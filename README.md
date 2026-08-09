@@ -16,6 +16,10 @@ class Developer:
         self.learning = "Data Engineering & System Design"
         self.portfolio = "[https://lineboi.github.io/](https://lineboi.github.io/)"
         self.open_for = ["Backend Developer Roles", "Web3/Blockchain Projects"]
+        self.fun_fact = (
+            "Introvert status—100%! Don't ask me to go out; I'm strictly inside coding. "
+            "Text over calls any day (calling me is practically a punishable offense 😅)!"
+        )
 
     def get_interests(self):
         return [
@@ -23,7 +27,3 @@ class Developer:
             "Competitive Programming",
             "Data Structures & Algorithms"
         ]
-
-    def introvert_status(self):
-        # Strictly inside coding; text over call always!
-        return True
