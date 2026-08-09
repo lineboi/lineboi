@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats & Profile Views
+### 📈 Dynamic Stats & Activity
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/lineboi/count.svg" alt="Profile Views" />
@@ -59,6 +59,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lineboi&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lineboi&theme=tokyonight" alt="Activity Graph" width="98%" />
+</p>
+
+---
+
+### ⚡ Recent GitHub Activity
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
 
 ---
 
