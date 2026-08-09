@@ -5,29 +5,13 @@
 ---
 
 ### 👨‍💻 About Me
-```python
-class Developer:
-    def __init__(self):
-        self.name = "IRADUKUNDA GWIZA MOISE"
-        self.education = "Computer Science @ University of Rwanda"
-        self.training = "A2SV Trainee (Data Structures & Algorithms Focus)"
-        self.role = "Backend Developer @ Silverland Tech"
-        self.learning = "Data Engineering & System Design"
-        self.portfolio = "https://lineboi.github.io/"
-        self.open_for = ["Backend Developer Roles", "Web3/Blockchain Projects"]
-        self.fun_fact = (
-            "Introvert status—100%! Don't ask me to go out; I'm strictly inside coding. "
-            "Text over calls any day (calling me is practically a punishable offense 😅)!"
-        )
 
-    def get_interests(self):
-        return [
-            "Blockchain & Smart Contracts",
-            "Competitive Programming",
-            "Data Structures & Algorithms"
-        ]
+Backend Developer & Web3 Engineer specializing in high-performance REST APIs, smart contracts, and data engineering.
+
+📖 **Read my full background, technical stack class, and details in [`ABOUTME.md`](./ABOUTME.md).**
+
 ---
-```
+
 ### 🎓 Training & Programs
 
 #### **Africa to Silicon Valley (A2SV)** | *Software Engineering & DSA Trainee*
@@ -40,11 +24,13 @@ class Developer:
 
 ### 🚀 Featured Projects
 
-- ⛓️ **Umukono:** A decentralized blockchain system designed for secure, transparent smart contract execution and digital asset management.
-- 💻 **PCM (PC Management System):** A comprehensive system management tool for monitoring, controlling, and optimizing desktop PC operations.
-- 🗺️ **Moto Link:** An AI-powered system built to landmark, map, and navigate locations across Kigali.
-- 🤝 **RaiseChain:** A blockchain-based fundraising platform enabling transparent relief funding and donations for people facing disasters.
-- 📈 **MyBook:** A Python-based arbitrage engine that monitors product/asset prices across multiple exchanges to identify real-time trading opportunities.
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| ⛓️ **Umukono** | `Solidity` `Hardhat` `JavaScript` | A decentralized blockchain system designed for secure, transparent smart contract execution and digital asset management. |
+| 💻 **PCM** | `Python` `C++` | A comprehensive desktop system management tool for monitoring, controlling, and optimizing hardware performance. |
+| 🗺️ **Moto Link** | `Python` `FastAPI` `AI/ML` | An AI-powered geospatial platform built to landmark, map, and navigate routes across Kigali. |
+| 🤝 **RaiseChain** | `Solidity` `React` `FastAPI` | A transparent, blockchain-powered fundraising platform enabling verified relief funding and decentralized donations. |
+| 📈 **MyBook** | `Python` `PostgreSQL` | A high-frequency arbitrage engine monitoring product and asset price spreads across exchanges for real-time trade signals. |
 
 ---
 
