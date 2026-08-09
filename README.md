@@ -18,6 +18,7 @@ class Developer:
         self.fun_fact = (
             "Introvert status—100%! Don't ask me to go out; I'm strictly inside coding. "
             "Text over calls any day (calling me is practically a punishable offense 😅)!"
+            "Overthinking is my unpaid part-time job, which just means I love paying attention to every single detail 🧠🔍"
         )
 
     def get_interests(self):
