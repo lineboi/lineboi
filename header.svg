@@ -1,0 +1,48 @@
+<svg fill="none" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          font-family: 'Fira Code', monospace, -apple-system, BlinkMacSystemFont;
+          text-align: center;
+        }
+        .title {
+          font-size: 26px;
+          font-weight: 700;
+          color: #38BDF8;
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 3px solid #38BDF8;
+          width: 0;
+          animation: typing 3.5s steps(35) 1s forwards, blink 0.75s step-end infinite;
+        }
+        .subtitle {
+          font-size: 16px;
+          color: #94A3B8;
+          margin-top: 8px;
+          opacity: 0;
+          animation: fadeIn 1s ease-in 4.5s forwards;
+        }
+        @keyframes typing {
+          from { width: 0; }
+          to { width: 100%; }
+        }
+        @keyframes blink {
+          from, to { border-color: transparent; }
+          50% { border-color: #38BDF8; }
+        }
+        @keyframes fadeIn {
+          to { opacity: 1; }
+        }
+      </style>
+      <div class="container">
+        <div class="title">Hey there, I'm IRADUKUNDA GWIZA MOISE 👋</div>
+        <div class="subtitle">Software Engineer | Backend Developer | Web3 &amp; Blockchain Developer</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
