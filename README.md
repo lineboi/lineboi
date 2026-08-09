@@ -5,7 +5,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working as a **Backend Developer at Silverland Tech**
+- 🎓 **Computer Science Student** at the **University of Rwanda**
+- 🚀 **A2SV Trainee** (Africa to Silicon Valley) — focused on **Data Structures & Algorithms**
+- 🔭 Currently working as a **Backend Developer at Silverland Tech**
 - 🛠️ Actively expanding my skills in **Data Engineering**
 - 💼 Open to **Backend Developer** opportunities
 - 💬 Ask me about **Blockchain**, **Smart Contracts**, **Data Structures**, and **Competitive Programming**
