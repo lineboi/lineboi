@@ -10,8 +10,19 @@
 - 🔭 Currently working as a **Backend Developer at Silverland Tech**
 - 🛠️ Actively expanding my skills in **Data Engineering**
 - 💼 Open to **Backend Developer** opportunities
+- 🌐 Check out my portfolio: **[lineboi.github.io](https://lineboi.github.io/)**
 - 💬 Ask me about **Blockchain**, **Smart Contracts**, **Data Structures**, and **Competitive Programming**
 - ⚡ Fun fact: **Introvert status—100%! Don't ask me to go out; I'm strictly inside coding. Text over calls any day (calling me is practically a punishable offense 😅)!**
+
+---
+
+### 🎓 Training & Programs
+
+#### **Africa to Silicon Valley (A2SV)** | *Software Engineering & DSA Trainee*
+- 💡 **Data Structures & Algorithms:** Mastering core computer science concepts including Graph Theory, Dynamic Programming, Trees, Heap, Two Pointers, and Binary Search.
+- 🧩 **Competitive Programming:** Solving complex algorithmic problems under time constraints to improve problem-solving efficiency and code performance.
+- 🤝 **Peer Code Reviews & System Design:** Conducting technical code reviews, analyzing time/space complexities ($O(n)$, $O(\log n)$), and implementing clean code practices.
+- ⚡ **Soft Skills & Technical Interviews:** Preparing for rigorous technical interviews through mock coding rounds and behavioral sessions.
 
 ---
 
@@ -68,6 +79,9 @@
 ### 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://lineboi.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:esiomwiz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
