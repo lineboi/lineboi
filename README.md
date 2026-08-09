@@ -1,5 +1,6 @@
-# Hi there, I'm IRADUKUNDA GWIZA MOISE 👋
-### Software Engineer | Backend Developer | Web3 & Blockchain Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IRADUKUNDA%20GWIZA%20MOISE&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Web3%20%26%20Blockchain%20Developer&descSize=18&descAlignY=62" alt="Dynamic Header" />
+</p>
 
 ---
 
