@@ -36,6 +36,10 @@ class Developer:
 - 🤝 **Peer Code Reviews & System Design:** Conducting technical code reviews, analyzing time/space complexities ($O(n)$, $O(\log n)$), and implementing clean code practices.
 - ⚡ **Soft Skills & Technical Interviews:** Preparing for rigorous technical interviews through mock coding rounds and behavioral sessions.
 
+#### **WEB3MATE** | *Blockchain & Ethereum Protocol Developer*
+- ⛓️ **Blockchain Fundamentals:** Deep diving into decentralized consensus mechanisms, cryptographic hashing, peer-to-peer networks, and distributed ledger state machine transitions.
+- 🔷 **Ethereum Protocol Architecture:** Studying EVM execution dynamics, account abstraction, gas optimization techniques, and transaction life cycles.
+- 📜 **Smart Contract Engineering:** Developing, compiling, testing, and deploying robust decentralized applications and smart contracts using Solidity and Hardhat.
 ---
 
 ### 🚀 Featured Projects
