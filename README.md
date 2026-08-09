@@ -53,7 +53,7 @@
 ### 📈 Dynamic Stats & Activity
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/lineboi/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lineboi&label=Profile%20Views&color=0e75ab&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
