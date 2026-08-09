@@ -1,5 +1,8 @@
-# Hey there, I'm IRADUKUNDA GWIZA MOISE 👋
-### Software Engineer | Backend Developer | Web3 & Blockchain Developer
+<p align="center">
+  <a href="https://github.com/lineboi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+IRADUKUNDA+GWIZA+MOISE+👋;Software+Engineer;Backend+Developer;Web3+%26+Blockchain+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
