@@ -1,5 +1,10 @@
-# <h1 align="center">Hey there, I'm IRADUKUNDA GWIZA MOISE 👋</h1>
-### <p align="center">Software Engineer | Backend Developer | Web3 & Blockchain Developer</p>
+<h1 align="center">Hey there, I'm IRADUKUNDA GWIZA MOISE 👋</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-38BDF8?style=for-the-badge" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/Backend-Developer-009688?style=for-the-badge" alt="Backend Developer" />
+  <img src="https://img.shields.io/badge/Web3-Blockchain%20Developer-363636?style=for-the-badge" alt="Web3 Developer" />
+</p>
 
 ---
 
