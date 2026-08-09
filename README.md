@@ -53,12 +53,11 @@
 ### 📊 GitHub Stats & Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lineboi&label=Profile%20Views&color=0e75ab&style=flat-square" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/lineboi/count.svg" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lineboi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lineboi&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lineboi&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
