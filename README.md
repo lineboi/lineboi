@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IRADUKUNDA%20GWIZA%20MOISE&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Web3%20%26%20Blockchain%20Developer&descSize=18&descAlignY=62" alt="Dynamic Header" />
+  <a href="https://github.com/lineboi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=IRADUKUNDA+GWIZA+MOISE;Software+Engineer;Backend+Developer;Web3+%26+Blockchain+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -51,7 +53,7 @@
 
 ---
 
-### 📈 Dynamic Stats & Activity
+### 📈 Stats & Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lineboi&label=Profile%20Views&color=0e75ab&style=flat-square" alt="Profile Views" />
@@ -60,16 +62,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lineboi&theme=tokyonight" alt="GitHub Streak" width="98%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lineboi&theme=tokyonight" alt="Activity Graph" width="98%" />
-</p>
-
----
-
-### ⚡ Recent GitHub Activity
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
 
 ---
 
