@@ -5,6 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
+```python
 class Developer:
     def __init__(self):
         self.name = "IRADUKUNDA GWIZA MOISE"
@@ -26,7 +27,7 @@ class Developer:
             "Data Structures & Algorithms"
         ]
 ---
-
+```
 ### 🎓 Training & Programs
 
 #### **Africa to Silicon Valley (A2SV)** | *Software Engineering & DSA Trainee*
