@@ -111,7 +111,7 @@ class Developer:
 ### 📈 Stats & Profile Views
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flineboi-profile%2Fcounter2&count_bg=%230E75AB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lineboi-profile-v2&label=Profile%20Views&color=0e75ab&style=flat-square" alt="Profile Views" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lineboi&theme=tokyonight" alt="GitHub Streak" width="98%" />
